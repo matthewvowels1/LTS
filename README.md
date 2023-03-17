@@ -1,2 +1,2 @@
 # LTS
-Listening Test Software
+Listening Test Software - created using Max MSP
