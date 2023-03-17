@@ -1,5 +1,5 @@
 # LTS
-Listening Test Software - created using Max MSP
+Listening Test Software for evaluating multiple loudspeakers double-blind.
 
 Use OS ELM v1.maxpat
 
